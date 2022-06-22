@@ -1,0 +1,14 @@
+public class Main {
+    public static void main(String[] args){
+        Data dataas = new Data();
+        
+        System.out.println("Noam Chomsky\n");
+        System.out.println("Mostra data 1: " + dataas.mostra1());
+        System.out.println("Mostra data 2: " + dataas.mostra2());
+        System.out.println("Ano é bissexto: " + dataas.bissexto());
+        System.out.println("Dias transcorridos: " + dataas.diasTranscorridos());
+        dataas.apresentaDataAtual();
+        System.out.println("\n\n");
+
+    }
+}

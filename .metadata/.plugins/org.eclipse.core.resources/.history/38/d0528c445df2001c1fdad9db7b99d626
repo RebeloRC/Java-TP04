@@ -1,0 +1,56 @@
+
+public class Data {
+	
+	private int dia;
+	private int mes;
+	private int ano;
+	
+	
+	public Data() {
+		
+		this.dia();
+		this.mes();
+		this.ano();
+		
+	}
+
+	public Data(int d, int m, int a) {
+		
+		this.setDia(d);
+		this.setMes(m);
+		this.setAno(a);
+		
+	}
+
+	private void setAno(int a) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private void setMes(int m) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private void setDia(int d) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+	private void setDia() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private void setMes() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private void setDia() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
